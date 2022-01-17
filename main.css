@@ -1,0 +1,9 @@
+body{background-color: antiquewhite;text-align: center;}
+.index{font-size: 45px;font-family: Georgia, 'Times New Roman', Times, serif;}
+table{margin: auto;width: 90%;border-collapse: separate;border-spacing: 0px 0px;}
+.wind_img{width: 30px;height: 30px;}
+td{display: table-cell;margin: auto;border: 1px solid #ccc;font-size: 0.75em;}
+th{display: table-cell;margin: auto;border: 1px solid #ccc;font-size: 0.75em;}
+.amedas_img{width: 30px;height: 30px;padding-top: 10px;padding-bottom: 0px;}
+.today_weather{font-size: 20px;}
+.amedas{font-size: 15px;vertical-align: top;}
